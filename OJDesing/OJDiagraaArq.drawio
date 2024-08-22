@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="zHwItaKZ7Q0KQxj4OTU7" name="Página-1">
+        <mxGraphModel dx="877" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+                    <mxGeometry x="52.5" y="77" width="333.5" height="102" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="53" y="188" width="323" height="138" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="53" y="334.56" width="318" height="127" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F2F0;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="53" y="473" width="321" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="77" width="243" height="221" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;br style=&quot;font-size: 19px;&quot;&gt;OJGUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="29" y="118" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="OJBusiness&lt;br&gt;Logic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="48" y="243" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="OJData&lt;br&gt;Acces&lt;br&gt;Component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="22" y="375.99" width="144.25" height="49.13" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="OJDATA&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="56" y="522" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="502.5" y="88" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="137" y="95" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="150.25" y="369.57" width="88" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="UI Component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="148" y="110" width="135" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="DAO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="154.25" y="383.06" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="457.5" y="129" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="OJException" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="464.5" y="144" width="135" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="368.53000000000003" width="88" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="DTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="261" y="386.09" width="76" height="23.94" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="121" y="228" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Entities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="128.5" y="243" width="135" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="436" y="204" width="204" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="OJConfiguraciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;fontSize=19;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="465" y="221" width="135" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
